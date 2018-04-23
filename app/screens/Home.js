@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
 import { StatusBar } from 'react-native';
  
 import { Container } from '../components/Container';
