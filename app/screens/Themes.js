@@ -66,4 +66,3 @@ class Themes extends Component {
   }
 }
 export default connect()(Themes);
-

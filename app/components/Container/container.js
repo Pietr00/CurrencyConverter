@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import { View, TouchableWithoutFeedback, Keyboard } from 'react-native';
 
-import styles from './styles';
+import styles from './style';
 
 const Container = ({ children, backgroundColor }) => {
   const containerStyles = [styles.container];
@@ -23,4 +23,3 @@ Container.propTypes = {
 };
 
 export default Container;
-

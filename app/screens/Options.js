@@ -56,4 +56,3 @@ class Options extends Component {
 const mapStateToProps = state => ({ primaryColor: state.theme.primaryColor });
 
 export default connect(mapStateToProps)(connectAlert(Options));
-

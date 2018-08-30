@@ -116,5 +116,3 @@ const mapStateToProps = (state) => {
 };
 
 export default connect(mapStateToProps)(connectAlert(Home));
-
-

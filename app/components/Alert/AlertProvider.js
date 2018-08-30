@@ -45,4 +45,3 @@ class AlertProvider extends Component {
 }
 
 export default AlertProvider;
-
